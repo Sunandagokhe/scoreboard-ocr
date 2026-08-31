@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.mp4
+debug_roi.png
+debug_processed.png
+scoreboard_log.json
+scoreboard_summary.json
